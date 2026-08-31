@@ -2,7 +2,8 @@
 
 **A practical simulation engine built around digital twins of real entities.**
 
-iSimulator is a generic, extensible platform that lets digital architects (and domain experts) model, contextualize, and simulate the behavior, operations, and control of specific entities—without requiring deep programming expertise.
+iSimulator is a generic, extensible platform with an ambition to enable and let digital architects (and domain experts) model, contextualize, and simulate the behavior, operations, and control of specific entities, without requiring deep programming expertise. 
+The initial focus of the Simulation engine is to support translating enterprise digital twins into operational models covering operating model simulation, business operations simulations and digital operations simulations.  
 
 ---
 
@@ -59,7 +60,7 @@ iSimulator is built to support:
 
 | Concern | Description |
 | --- | --- |
-| **Entity semantics** | The meaning, roles, states, and identity of the specific entity |
+| **Entity semantics** | The meaning, roles, states, and identity of the specific entity (Refer to the [World Concepts Foundation at](https://github.com/World-Semantic-Foundation/wsf-software)  |
 | **Behavior** | How the entity acts and reacts under different conditions |
 | **Operations** | The concrete actions and processes the entity can perform |
 | **Control models** | Rules, policies, feedback loops, and decision logic that govern the entity |
@@ -111,7 +112,7 @@ This README frames the intent and direction. Concrete architecture, APIs, modeli
 
 ## Vision in One Sentence
 
-**iSimulator is a friendly, entity-centric simulation platform that lets people who understand real-world systems explore those systems through digital twins—capturing semantics, behavior, operations, control, and time—so that problem spaces can be contextualized, reasoned about, and improved.**
+**iSimulator is OpenSource, and a friendly, entity-centric simulation platform that lets people who understand real-world systems explore those systems through digital twins—capturing semantics, behavior, operations, control, and time—so that problem spaces can be contextualized, reasoned about, and improved.**
 
 ---
 

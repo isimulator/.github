@@ -1,2 +1,3 @@
 # .github
-iSimulator is a digital-based model that imitates the behavior of a real-world entities (system, process, or phenomenon) over time using mathematical equations, algorithms, and numerical methods. 
+
+Organization profile, templates, and shared configuration for iSimulator. The public org landing page lives in [profile/README.md](profile/README.md).
